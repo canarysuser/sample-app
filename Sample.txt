@@ -12,3 +12,6 @@ git push -u origin main
 
 After every edit or completion of tasks, we will have to repeat the above commands to push the updated version to the online repository so that other users/colleagues can access the updated code file(s). 
 
+
+File contents are changed by cloning it to another folder and making changes.
+The changed contents will now be uploaded back to the online repository.
